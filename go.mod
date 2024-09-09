@@ -1,10 +1,12 @@
 module github.com/jjazzme/selectelv2-caddy
 
-go 1.23
+go 1.22.0
+
+toolchain go1.23.0
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
-	github.com/jjazzme/selectelv2-libdns v1.0.1
+	github.com/jjazzme/selectelv2-libdns v1.0.2
 )
 
 require (

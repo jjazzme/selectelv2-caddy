@@ -20,8 +20,8 @@ github.com/google/pprof v0.0.0-20240903155634-a8630aee4ab9 h1:q5g0N9eal4bmJwXHC5
 github.com/google/pprof v0.0.0-20240903155634-a8630aee4ab9/go.mod h1:vavhavw2zAxS5dIdcRluK6cSGGPlZynqzFM8NdvU144=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/jjazzme/selectelv2-libdns v1.0.1 h1:2lsCu5x8a7hVkgoPQchgWRF9KOIcNih02qeWqEHDpPc=
-github.com/jjazzme/selectelv2-libdns v1.0.1/go.mod h1:py8xtU6xVnXCYQZ4rRfwNBTGn/yLRFBQRD9Hn0ISB2c=
+github.com/jjazzme/selectelv2-libdns v1.0.2 h1:0Aedw9Xv7IK5ocag9eLQqlMTPLUW0T7ZIWb5Wbqm2nM=
+github.com/jjazzme/selectelv2-libdns v1.0.2/go.mod h1:2SnotglUIs4wzdz+31c57/afofUop/83wCQrn2F46O4=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 github.com/klauspost/compress v1.17.9 h1:6KIumPrER1LHsvBVuDa0r5xaG0Es51mhhB9BQB2qeMA=
